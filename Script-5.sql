@@ -1,0 +1,1 @@
+select account0_.id as id1_0_, account0_.email as email2_0_, account0_.full_name as full_nam3_0_, account0_.password as password4_0_, account0_.phone_number as phone_nu5_0_, account0_.user_name as user_nam6_0_ from mst_account account0_ where account0_.user_name='jeremi'
